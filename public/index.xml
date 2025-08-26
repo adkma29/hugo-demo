@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 26 Aug 2025 16:22:33 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/hugo-demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>Le Dev Web</title>
       <link>http://localhost:1313/hugo-demo/posts/hello-world/</link>
       <pubDate>Tue, 26 Aug 2025 16:22:33 +1100</pubDate>
       <guid>http://localhost:1313/hugo-demo/posts/hello-world/</guid>
-      <description></description>
+      <description>&lt;p&gt;Bienvenue sur mon tout premier article Hugo 🎉&lt;/p&gt;&#xA;&lt;h2 id=&#34;quest-ce-que-le-développement-web-&#34;&gt;Qu’est-ce que le développement web ?&lt;/h2&gt;&#xA;&lt;p&gt;Le développement web consiste à créer et maintenir des sites internet ou des applications web.&lt;br&gt;&#xA;On distingue généralement deux grandes parties :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Front-end&lt;/strong&gt; : la partie visible par l’utilisateur (HTML, CSS, JavaScript, frameworks comme React, Angular ou Vue).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Back-end&lt;/strong&gt; : la partie invisible qui gère la logique, les bases de données et l’authentification (PHP, Node.js, Python, Java, etc.).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;pourquoi-apprendre-le-développement-web-&#34;&gt;Pourquoi apprendre le développement web ?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;C’est un domaine en constante évolution 🌍&lt;/li&gt;&#xA;&lt;li&gt;Il permet de donner vie à des idées et de créer des expériences interactives pour les utilisateurs.&lt;/li&gt;&#xA;&lt;li&gt;Les compétences acquises ouvrent des opportunités variées : freelancing, start-up, grandes entreprises, ou même création de projets personnels.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;et-la-suite-&#34;&gt;Et la suite ?&lt;/h2&gt;&#xA;&lt;p&gt;Dans les prochains articles, je partagerai me&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
